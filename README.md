@@ -1,10 +1,9 @@
 # Hey, I am Subhojeet Ghosh! Great to see you here! ✨✨✨✨✨✨✨
 
 
- * currently pursuing my Bachelor's in Computer Science From BIT MESRA OFF CAMPUS DEOGHAR
- * JAVA DESKTOP APPLICATION DEVELOPER ( Java Swing ).
- * Front End Web Developer.
-
+ * currently pursuing my Bachelor's in Computer Science From BIT MESRA
+ * Backend Java Developer
+ * Software Engineer At CGI
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
